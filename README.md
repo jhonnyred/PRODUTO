@@ -16,8 +16,8 @@ Pessoa contendo os atributos:
 É necessário ter java instalado e demais dependencias (no caso de linux é necessário que instale jdk-23_linux-x64_bin.deb)
 
 #INSTALAÇÃO
-Para a utilização de projeto é necessário executa-lo através do Visual Studio code ou através do comando "java" direto no shell
-linux
+Para a utilização de projeto é necessário executa-lo através do Visual Studio code ou através do comando "java" direto numa shell
+linux (para isso é necessário primeiro compilar os arquivos com "javac Main.java")
 
 #CONSTRUÍDO COM
 Feito no Visual Studio, não são necessárias demais biblotecas.
