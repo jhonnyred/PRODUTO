@@ -44,5 +44,5 @@ Pessoa contendo os atributos:
 
 ## ✒️ Autores
 
-* **Giovanni Galli** - *Trabalho Inicial* - Tarefa 2
+* **Giovanni Galli** - *Trabalho Inicial* - Tarefa 1
 
